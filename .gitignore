@@ -3,3 +3,6 @@
 ################################################################################
 
 /obj
+/.vs/sft_oob_lic/v16
+/.vs/sft_oob_lic/DesignTimeBuild
+/bin/Debug/netcoreapp3.0
